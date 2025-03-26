@@ -9,4 +9,4 @@ For detailed methodology and results, refer to our paper: [Link to Paper](#)
 ## Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/anikter-ae/SEEQST.git
+   git clone https://github.com/aniket-ae/SEEQST.git
